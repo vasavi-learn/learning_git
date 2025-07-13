@@ -1,1 +1,1 @@
-print("i am beautiful,confident,carfeul,pinasi")
+print("i am beautiful,confident")
